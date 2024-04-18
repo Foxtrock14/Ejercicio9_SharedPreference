@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio9</string>
+    <string name="txtRegistro">Registro nuevo</string>
+    <string name="txtRegistroUsuario">Registro Usuario</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="txtModificar">Modificar Registro</string>
+    <string name="txtModificarr">Modificar Usuario</string>
+    <string name="btnModificar">Modificar</string>
+</resources>
